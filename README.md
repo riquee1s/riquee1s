@@ -21,10 +21,8 @@
 #
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/riquee1s">
-    
-  ![rique1s' GitHub stats](https://github-readme-stats.vercel.app/api?username=riquee1s&show_icons=true&theme=midnight-purple)
-
-   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquee1s&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=riquee1s&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquee1s&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
 </div>
     
@@ -32,7 +30,7 @@
 
 <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40"></a> 
-  <a href="https://www.hirodrank@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="40"></a>
+  <a href="mailto:hirodrank@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="40"></a>
 <a href="https://www.instagram.com/rique.1s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="40"></a>
 
   
