@@ -1,8 +1,41 @@
-<img src="https://i.imgur.com/QeVnm5K.gif" width="800px" alt="hello-gif"/>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="100px" alt="logo-html" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="100px" alt="logo-css" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="90px"alt="logo-js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="90px"alt="logo-typescripts"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&pause=1000&color=CE63FF&width=435&lines=Hello+world!+I'm+Rique.;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+
+
+
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/c7c37b102838689.5f3f8d8ab8058.gif" alt="Pixel Art" align="right" width="200">
+
+### Technologies and tools:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" height="35" width="35" src= "https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" alt="cris-typecripts"/>
+  <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div><br>
+
+### GitHub Skills
+#
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/anacristinaneves">
+    
+  ![rique1s' GitHub stats](https://github-readme-stats.vercel.app/api?username=riquee1s&show_icons=true&theme=midnight-purple)
+
+   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquee1s&layout=compact&langs_count=7&theme=midnight-purple"/>
+  </a>
 </div>
+    
+### Contact
+
+<div>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40"></a> 
+  <a href="hirodrank@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="40"></a>
+<a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="40"></a>
+
+  
+</div>
+
 
