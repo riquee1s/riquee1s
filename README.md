@@ -20,7 +20,7 @@
 ### GitHub Skills
 #
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/anacristinaneves">
+  <a href="https://github.com/riquee1s">
     
   ![rique1s' GitHub stats](https://github-readme-stats.vercel.app/api?username=riquee1s&show_icons=true&theme=midnight-purple)
 
